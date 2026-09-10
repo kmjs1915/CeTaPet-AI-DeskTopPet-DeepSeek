@@ -1,6 +1,6 @@
 # CeTaPet-AI-DeskTopPet-DeepSeek
 这是一款基于Python开发的桌面AI桌宠，对接DeepSeek模型，支持角色聊天，以及轻量化RAG知识库。
-CeTaPet-AI-桌面宠物（鲸鱼娘桌宠）
+CeTaPet-AI-桌面宠物（鲸鱼娘桌宠）  
 <img width="105" height="125" alt="cheerup" src="https://github.com/user-attachments/assets/41965a4a-3c41-4c26-835d-7ff00324da77" />
 
 这是一个使用 Python + PySide6 开发的Windows桌面AI宠物，接入DeepSeek大模型，支持角色对话、本地轻量化RAG文档问答。

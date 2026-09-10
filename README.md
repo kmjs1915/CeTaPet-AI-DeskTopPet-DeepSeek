@@ -27,11 +27,30 @@ CeTaPet-AI-桌面宠物（鲸鱼娘桌宠）
 >不喜欢deepseek鲸鱼娘的形象？  
 >所有角色动作图片、预设对话台词全部放在 asset_library 文件夹，可自行替换asset_library文件夹内图片素材，自定义角色形象
 
-## 🖥️ 运行环境
-- 操作系统：Windows 10 / Windows 11
-- 运行方式二选一：
-  1. 打包成品：直接下载 Release 压缩包解压运行
-  2. 源码运行：Python 3.10+，自行安装依赖
+## 下载方式
+**方式一：**
+
+普通用户，直接在页面右方release下载 CetaPet 鲸鱼娘AI桌宠 v1.0 打包exe  
+
+**方式二：**  
+
+网页手动下载源码  
+
+**方式三：cmd命令行：**  
+
+```bash
+# 1.克隆源码到本地
+git clone https://github.com/kmjs1915/CeTaPet-AI-DeskTopPet-DeepSeek.git
+
+# 2.进入项目文件夹
+cd CeTaPet-AI-DeskTopPet-DeepSeek
+
+# 3.安装依赖
+pip install pyside6 python-docx
+
+# 4.运行鲸鱼娘桌宠
+python main.py
+```
  
   
 ## 📦 使用教程
@@ -70,5 +89,4 @@ python main.py
 > 本项目为学习Demo，**未做密钥加密**。请妥善保管你的DeepSeek API密钥，不要分享包含密钥的配置文件。密钥泄露产生的全部费用，由使用者自行承担，开发者不承担任何相关损失。  
 > 程序初次启动会要求输入DeepSeek API Key，密钥将明文保存至 asset_library/API-KEY.txt，请务必注意安全！  
 > **最后，本项目是我第一个独立开发项目，欢迎各位大佬多多指正，也欢迎基于本项目迎进行二次开发！！！**
-
 

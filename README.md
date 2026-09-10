@@ -4,7 +4,7 @@ CeTaPet-AI-桌面宠物（鲸鱼娘桌宠）
 
 这是一个使用 Python + PySide6 开发的Windows桌面AI宠物，接入DeepSeek大模型，支持角色对话、本地轻量化RAG文档问答。
 本项目是个人学习Demo，由 DeepSeek Harness 和 ChatGPT 辅助生成代码，仅用于编程学习、AI应用实践。  
-**⚠️程序需要用户自行准备 DeepSeek API Key，才能启用对话与RAG功能。**
+**⚠️程序需要用户自行准备 DeepSeek API Key，才能启用本程序。**
 
 
 # 请在下载前仔细阅读内容（尤其是最后一条重要提醒！！！）

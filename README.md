@@ -18,7 +18,7 @@ CeTaPet-AI-桌面宠物（鲸鱼娘桌宠）
 >[!NOTE]
 ># 那本桌宠亮点在哪？  
 >✨**1.文本文件读取：**  
->读取RAG文件夹内 .txt/.docx 文档，支持拖拽文件交给桌宠解析，鲸鱼娘可以阅读文本内容并在对话框进行互动
+>读取RAG文件夹内 .txt/.docx 文档，支持拖拽文件交给桌宠解析，鲸鱼娘可以阅读文本内容并在对话框进行互动  
 >你可以将文件拖拽到角色图标，让鲸鱼娘“吃下文件” ,不同的文件鲸鱼娘有不同的反应。  
 ><img width="110" height="132" alt="true" src="https://github.com/user-attachments/assets/6eaa77cf-34fd-47a8-a3c1-6b0976dd9657" />
 ><img width="110" height="125" alt="wrong" src="https://github.com/user-attachments/assets/b01be741-eb37-4d3b-8205-5bf6cbde1579" />  
